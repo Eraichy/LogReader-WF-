@@ -1,0 +1,12 @@
+tmp
+osb
+perf
+cache
+config
+sbgen
+tbmi
+Script
+pending
+replicadata
+### core
+### Комменты записываем с "###" в начале строки.

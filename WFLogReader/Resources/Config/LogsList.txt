@@ -1,0 +1,18 @@
+AdminServer.log
+t.log
+kpi.log
+emias.log
+waiting-list.log
+admin-llo-soap.log
+soap.log
+access.log
+services.log
+lis-soap-services.log
+lis-dummy-laboratory-services.log
+outpatient-coupon-service-soap.log
+lis-core.log
+webrecorder-llo.log
+sickcert_app.log
+sickcert.log
+webrecorder.log
+### Комменты записываем с "###" в начале строки.

@@ -1,0 +1,14 @@
+D:\Трешак\sharp\WFLogReader\WFLogReader\bin\Debug\LogReader.exe.config
+D:\Трешак\sharp\WFLogReader\WFLogReader\bin\Debug\LogReader.exe.manifest
+D:\Трешак\sharp\WFLogReader\WFLogReader\bin\Debug\LogReader.application
+D:\Трешак\sharp\WFLogReader\WFLogReader\bin\Debug\LogReader.exe
+D:\Трешак\sharp\WFLogReader\WFLogReader\bin\Debug\LogReader.pdb
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\WFLogReader.Form1.resources
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\LogReader.Properties.Resources.resources
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\WFLogReader.csproj.GenerateResource.Cache
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\LogReader.TrustInfo.xml
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\LogReader.exe.manifest
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\LogReader.application
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\LogReader.exe
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\LogReader.pdb
+D:\Трешак\sharp\WFLogReader\WFLogReader\obj\Debug\WFLogReader.csprojResolveAssemblyReference.cache
